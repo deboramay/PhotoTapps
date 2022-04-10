@@ -1,2 +1,2 @@
 # PhotoTapps
-Study Project 4
+Study Project #4 - Collection View
